@@ -45,7 +45,6 @@ Developed by: Deepika D
 
 RegisterNumber: 25016783
 
-
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
@@ -53,3 +52,6 @@ RegisterNumber: 25016783
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+
+
+To implement  SR flipflop using verilog and validating their functionality using their functional tables is verified.
